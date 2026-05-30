@@ -13,3 +13,5 @@ If you want a custom desktop style likewise the one in example, then follow this
 
 
 awww-daemon > /dev/null 2>&1 &
+sudo ln -sf /usr/bin/awww /usr/bin/swww
+sudo ln -sf /usr/bin/awww-daemon /usr/bin/swww-daemon
