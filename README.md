@@ -10,3 +10,6 @@ This is a simple tutorial on how to install Arch Linux efficently and with good 
 OPTIONAL FOR HYPRLAND USERS:
 If you want a custom desktop style likewise the one in example, then follow this tutorial. The proccess is actually very simple with running this command only in the start, `sh <(curl -L https://raw.githubusercontent.com/JaKooLit/Arch-Hyprland/main/auto-install.sh)`. This will start the download. Follow what the installation says to do and install neccessary packages from the optional packages provided (I suggest to install mostly all of them if you want, that what I did).
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e540e153-a4c4-402b-b2dc-bf21c5f8bdc1" />
+
+
+awww-daemon > /dev/null 2>&1 &
